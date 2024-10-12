@@ -1,0 +1,2 @@
+# NuevasPropiedades
+Bitacora 2
